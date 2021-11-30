@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/banner-ignite.png" alt="Finan DEV" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frocketseat-education%2Fignite-template-conceitos-do-nodejs&psig=AOvVaw01zM5TGUPk-DWo2dGxwlGv&ust=1638321083998000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDhoOXzvvQCFQAAAAAdAAAAABAJ" alt="Finan DEV" />
 
 &#xa0;
 
@@ -25,7 +25,6 @@
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#warning-pré-requisitos"> Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
 </p>
 
 <br>
@@ -95,5 +94,3 @@ $ yarn dev
 ```
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
-
-## :memo: Licença
